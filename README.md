@@ -116,7 +116,7 @@ fruitable/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/chan-814/Fruitable_E_Commerce-Website.git
-   cd Fruitable_E_Commerce-Website
+   cd Fruitable_E_Commerce-Website/Fruitable-E-Commerce_Website
    ```
  
 2. **Install Python dependencies**
